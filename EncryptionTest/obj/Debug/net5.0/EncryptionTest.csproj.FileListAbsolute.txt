@@ -1,0 +1,32 @@
+D:\Desktop\Personal project-C#\C# Encryption Console\EncryptionTest\EncryptionTest\bin\Debug\net5.0\EncryptionTest.exe
+D:\Desktop\Personal project-C#\C# Encryption Console\EncryptionTest\EncryptionTest\bin\Debug\net5.0\EncryptionTest.deps.json
+D:\Desktop\Personal project-C#\C# Encryption Console\EncryptionTest\EncryptionTest\bin\Debug\net5.0\EncryptionTest.runtimeconfig.json
+D:\Desktop\Personal project-C#\C# Encryption Console\EncryptionTest\EncryptionTest\bin\Debug\net5.0\EncryptionTest.runtimeconfig.dev.json
+D:\Desktop\Personal project-C#\C# Encryption Console\EncryptionTest\EncryptionTest\bin\Debug\net5.0\EncryptionTest.dll
+D:\Desktop\Personal project-C#\C# Encryption Console\EncryptionTest\EncryptionTest\bin\Debug\net5.0\ref\EncryptionTest.dll
+D:\Desktop\Personal project-C#\C# Encryption Console\EncryptionTest\EncryptionTest\bin\Debug\net5.0\EncryptionTest.pdb
+D:\Desktop\Personal project-C#\C# Encryption Console\EncryptionTest\EncryptionTest\obj\Debug\net5.0\EncryptionTest.csproj.AssemblyReference.cache
+D:\Desktop\Personal project-C#\C# Encryption Console\EncryptionTest\EncryptionTest\obj\Debug\net5.0\EncryptionTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Personal project-C#\C# Encryption Console\EncryptionTest\EncryptionTest\obj\Debug\net5.0\EncryptionTest.AssemblyInfoInputs.cache
+D:\Desktop\Personal project-C#\C# Encryption Console\EncryptionTest\EncryptionTest\obj\Debug\net5.0\EncryptionTest.AssemblyInfo.cs
+D:\Desktop\Personal project-C#\C# Encryption Console\EncryptionTest\EncryptionTest\obj\Debug\net5.0\EncryptionTest.csproj.CoreCompileInputs.cache
+D:\Desktop\Personal project-C#\C# Encryption Console\EncryptionTest\EncryptionTest\obj\Debug\net5.0\EncryptionTest.dll
+D:\Desktop\Personal project-C#\C# Encryption Console\EncryptionTest\EncryptionTest\obj\Debug\net5.0\ref\EncryptionTest.dll
+D:\Desktop\Personal project-C#\C# Encryption Console\EncryptionTest\EncryptionTest\obj\Debug\net5.0\EncryptionTest.pdb
+D:\Desktop\Personal project-C#\C# Encryption Console\EncryptionTest\EncryptionTest\obj\Debug\net5.0\EncryptionTest.genruntimeconfig.cache
+D:\Personal project-C#\C# Encryption Console\‏‏EncryptionTest git\EncryptionTest\bin\Debug\net5.0\EncryptionTest.exe
+D:\Personal project-C#\C# Encryption Console\‏‏EncryptionTest git\EncryptionTest\bin\Debug\net5.0\EncryptionTest.deps.json
+D:\Personal project-C#\C# Encryption Console\‏‏EncryptionTest git\EncryptionTest\bin\Debug\net5.0\EncryptionTest.runtimeconfig.json
+D:\Personal project-C#\C# Encryption Console\‏‏EncryptionTest git\EncryptionTest\bin\Debug\net5.0\EncryptionTest.runtimeconfig.dev.json
+D:\Personal project-C#\C# Encryption Console\‏‏EncryptionTest git\EncryptionTest\bin\Debug\net5.0\EncryptionTest.dll
+D:\Personal project-C#\C# Encryption Console\‏‏EncryptionTest git\EncryptionTest\bin\Debug\net5.0\EncryptionTest.pdb
+D:\Personal project-C#\C# Encryption Console\‏‏EncryptionTest git\EncryptionTest\obj\Debug\net5.0\EncryptionTest.csproj.AssemblyReference.cache
+D:\Personal project-C#\C# Encryption Console\‏‏EncryptionTest git\EncryptionTest\obj\Debug\net5.0\EncryptionTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal project-C#\C# Encryption Console\‏‏EncryptionTest git\EncryptionTest\obj\Debug\net5.0\EncryptionTest.AssemblyInfoInputs.cache
+D:\Personal project-C#\C# Encryption Console\‏‏EncryptionTest git\EncryptionTest\obj\Debug\net5.0\EncryptionTest.AssemblyInfo.cs
+D:\Personal project-C#\C# Encryption Console\‏‏EncryptionTest git\EncryptionTest\obj\Debug\net5.0\EncryptionTest.csproj.CoreCompileInputs.cache
+D:\Personal project-C#\C# Encryption Console\‏‏EncryptionTest git\EncryptionTest\obj\Debug\net5.0\EncryptionTest.dll
+D:\Personal project-C#\C# Encryption Console\‏‏EncryptionTest git\EncryptionTest\obj\Debug\net5.0\refint\EncryptionTest.dll
+D:\Personal project-C#\C# Encryption Console\‏‏EncryptionTest git\EncryptionTest\obj\Debug\net5.0\EncryptionTest.pdb
+D:\Personal project-C#\C# Encryption Console\‏‏EncryptionTest git\EncryptionTest\obj\Debug\net5.0\EncryptionTest.genruntimeconfig.cache
+D:\Personal project-C#\C# Encryption Console\‏‏EncryptionTest git\EncryptionTest\obj\Debug\net5.0\ref\EncryptionTest.dll
