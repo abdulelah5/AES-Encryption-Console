@@ -30,3 +30,4 @@ D:\Personal project-C#\C# Encryption Console\‏‏EncryptionTest git\Encryption
 D:\Personal project-C#\C# Encryption Console\‏‏EncryptionTest git\EncryptionTest\obj\Debug\net5.0\EncryptionTest.pdb
 D:\Personal project-C#\C# Encryption Console\‏‏EncryptionTest git\EncryptionTest\obj\Debug\net5.0\EncryptionTest.genruntimeconfig.cache
 D:\Personal project-C#\C# Encryption Console\‏‏EncryptionTest git\EncryptionTest\obj\Debug\net5.0\ref\EncryptionTest.dll
+D:\Personal project-C#\C# Encryption Console\‏‏EncryptionTest git\EncryptionTest\obj\Debug\net5.0\EncryptionTest.sourcelink.json

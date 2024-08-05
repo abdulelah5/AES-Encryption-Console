@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Security.Claims;
-using System.Web;
 
 namespace EncryptionTest
 {
@@ -17,13 +15,13 @@ namespace EncryptionTest
             //string to encrypt
             Console.WriteLine("Please enter a string to encrypt:");
             string plaintext = Console.ReadLine();
-            Console.WriteLine("");
+            Console.WriteLine();
 
             //encryption value
             Console.WriteLine("Your encrypted string is:");
             string encryptedstring = StringCipher.Encrypt(plaintext, password);
             Console.WriteLine(encryptedstring);
-            Console.WriteLine("");
+            Console.WriteLine();
 
             //decryption
             Console.WriteLine("Your decrypted string is:");
@@ -33,10 +31,10 @@ namespace EncryptionTest
             #endregion
 
 
-            Console.WriteLine("");
+            Console.WriteLine();
 
             Console.WriteLine("Press any key to exit...");
             Console.ReadLine();
         }
-    }   
+    }
 }

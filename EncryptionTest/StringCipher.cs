@@ -1,19 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Security.Cryptography;
 using System.IO;
+using System.Security.Cryptography;
+using System.Text;
 
 namespace EncryptionTest
 {
     public static class StringCipher
     {
-        //private const string password = "^&$Is@!It@Hard@To@Find@This@Password#*+=(79710)-(89248)|_/";
-        //private const string password = "^&$Is@!It@Hard@To@Find@This@Password#*+=Please.Go..Away..92..12|_/";
-        //private const string password = "!~$ Hi From (Abdulelah) *^#@-_=+41Inv";
-
         public static string Encrypt(string clearText, string password)
         {
             string EncryptionKey = password;
